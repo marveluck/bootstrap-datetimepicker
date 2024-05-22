@@ -1,4 +1,4 @@
-# Bootstrap 3/4 Date/Time Picker with clock-like Time-Picker
+# Bootstrap 3/4 Date/Time Picker with clock-like Time-Picker 
 
 This date-picker project is a fork of the famous [Eonasdan datetimepicker](https://github.com/Eonasdan/bootstrap-datetimepicker). A clock-like time-picker has been introduced into it and the widget is optimized to make it compatible to both Bootstrap 3 and 4 versions.
 
